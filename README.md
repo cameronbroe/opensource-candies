@@ -74,6 +74,8 @@ Formerly started at [<img src="https://ycombinator.com/favicon.ico" alt="YCombin
 
 [<img src="https://www.browserstack.com/favicon.ico" alt="Browser Stack" height="16" /> Browser Stack](https://www.browserstack.com/) - Live, Web-Based Browser Testing - request needed
 
+[<img src="https://crossbrowsertesting.com/favicon.ico" alt="CrossBrowserTesting" height="16" /> CrossBrowserTesting](https://www.crossbrowsertesting.com/open-source) - Web-Based Browser Testing, Screenshot Testing, and Codeless Automation Testing - request needed (fill out form on the page)
+
 [<img src="https://testingbot.com/favicon.ico" alt="TestingBot" height="16" /> TestingBot](https://testingbot.com/) - Browser Testing - request needed
 
 ### Monitoring
